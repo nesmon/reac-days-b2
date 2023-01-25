@@ -1,3 +1,3 @@
-# React-days-b2
+# React-days=b2
 
-Another random repository for my school period learning react ^^
+Another random repository for my school period during learn react   

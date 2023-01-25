@@ -1,0 +1,63 @@
+[
+    {
+        "name" : "Axeria",
+        "artist": "AcuticNotes",
+        "category": "Original",
+        "difficulty" : [
+            {
+                "Easy": "4",
+                "Basic": "6",
+                "Advance": "7+",
+                "Expert": "10+",
+                "Master": "13"                
+            }
+        ],
+        "imageCover": "https://i1.sndcdn.com/artworks-000149737311-mkur0q-t500x500.jpg"
+    },
+    {
+        "name" : "Our Wrenaly",
+        "artist": "t+pazolite",
+        "category": "Original",
+        "difficulty" : [
+            {
+                "Easy": "4",
+                "Basic": "6",
+                "Advance": "9",
+                "Expert": "11",
+                "Master": "13"
+            }
+        ],
+        "imageCover": "https://f4.bcbits.com/img/a0581784497_10.jpg"
+    },
+    {
+        "name" : "Milk",
+        "artist": "モリモリあつし",
+        "category": "GAME & VARIETY",
+        "difficulty" : [
+            {
+                "Easy": "1",
+                "Basic": "4",
+                "Advance": "6",
+                "Expert": "10+",
+                "Master": "12+"                
+            }
+        ],
+        "imageCover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/90/ca/d7/90cad750-3d99-3d3b-5c4f-2b65eaaf2a3f/859756544166_cover.png/1200x1200bf-60.jpg"
+    },
+    {
+        "name" : "Pandora Paradoxxx",
+        "artist": "Sakuzyo",
+        "category": "Original",
+        "difficulty" : [
+            {
+                "Easy": "6",
+                "Basic": "7+",
+                "Advance": "10+",
+                "Expert": "12+",
+                "Master": "13+",
+                "Re:Master": "14"
+            }
+        ],
+        "imageCover": "http://cni.mugzone.net/cover/11580!small?time=1558267894"
+    }
+]
