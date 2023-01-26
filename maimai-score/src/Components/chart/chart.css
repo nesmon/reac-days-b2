@@ -5,6 +5,13 @@
     background-color: #f97e8e;
     border-radius: 15px;
     border-bottom: 5px solid #A32D44;
+    transition: transform 0.2s;
+    transform: scale(1);
+}
+
+.chart:hover {
+    transition: transform 0.2s;
+    transform: scale(1.05);
 }
 
 .difficulty > ul {

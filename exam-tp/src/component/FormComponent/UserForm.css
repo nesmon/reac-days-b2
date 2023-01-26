@@ -1,0 +1,63 @@
+.addUser {
+    font-size: larger;
+    cursor: pointer;
+    margin-top: 15px;
+    width: 25%;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background: linear-gradient(45deg, #e56bfe 30%, #85daf9 90%);
+    scale: 1;
+    transition: scale 0.5s;
+}
+
+.addUser:hover {
+    scale: 1.05;
+    transition: scale 0.5s;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px auto;
+    width: 15%;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background: linear-gradient(45deg, #e56bfe 30%, #85daf9 90%);
+}
+
+.input {
+    margin: 10px;
+    padding: 10px;
+    width: 80%;
+    border: none;
+    background: #f1f1f1;
+    border-radius: 10px;
+}
+
+.button {
+    margin: 10px;
+    padding: 10px;
+    width: 88%;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+    scale: 1;
+    transition: scale 0.5s;
+}
+
+.button:hover {
+    scale: 1.03;
+    transition: scale 0.5s;
+}
+
+.submit{    
+    background: linear-gradient(45deg, #39d043 35%, #85f9ce 65%);
+}
+
+.cancel{
+    background: linear-gradient(125deg, #d03c39 35%, #eda26c 65%);
+}

@@ -1,0 +1,15 @@
+.usersList {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    list-style: none;
+}
+
+.usersList > li {
+    margin: 10px;
+    padding: 10px;
+    background: linear-gradient(45deg, #e56bfe 30%, #85daf9 90%);
+    border-radius: 10px;
+    box-shadow: 0 3px 5px 2px rgba(241, 114, 235, 0.3);
+}
