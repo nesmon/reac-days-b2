@@ -48,7 +48,6 @@
 .difficulty-level {
     margin: 3px;
     width: 30px;
-    background-color: red;
     border-radius: 5px;
 }
 
@@ -73,7 +72,5 @@
 }
 
 .remaster{
-    /* backgroudn color purple to white */
     background: linear-gradient(110deg, #d42ccf 48%, #ffffff 52%);;
-
 }
